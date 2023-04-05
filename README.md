@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=william-hortone&label=Profile%20views&color=0e75b6&style=flat" alt="william-hortone" /> </p>
 
-- 🔭 I’m currently working on **React Js App**
+- 🔭 I’m currently working on **React Js and Angular projects**
 
 - 🌱 I’m currently studying **Sofware Engineering**
 
