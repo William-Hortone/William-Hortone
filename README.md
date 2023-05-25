@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Front or Full-stack projects**
 
-- 👨‍💻 All of my projects are available at [williamhortone.com](https://williamhortone.com/)
+- 👨‍💻 Many of my projects are available at [williamhortone.com](https://williamhortone.com/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/william-hortone-a078b2219/](https://www.linkedin.com/in/william-hortone-a078b2219/)
 
