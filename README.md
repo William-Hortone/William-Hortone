@@ -1,15 +1,15 @@
 
-<h1 align="center">Hi 👋,e I'm William Hortone</h1>
+<h1 align="center">Hi 👋, I'm William Hortone</h1>
 <h3 align="center">A passionate frontend developer from Gabon and living in China</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=william-hortone&label=Profile%20views&color=0e75b6&style=flat" alt="william-hortone" /> </p>
 
-- 🔭 I’m currently working on **Angular  and React Js and projects**
+- 🔭 I’m currently working on ** React Js App**
 
 - 🌱 I’m currently studying **Sofware Engineering**
 
-- 👯 I’m looking to collaborate on **Front or Full-stack projects**
+- 👯 I’m looking to collaborate on **Front-end or Full-stack projects**
 
 - 👨‍💻 Many of my projects are available at [williamhortone.com](https://williamhortone.com/)
 
