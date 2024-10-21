@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm William Hortone</h1>
-<h3 align="center">A passionate frontend developer from Gabon and living in China</h3>
+<h3 align="center">A passionate software engineer from Gabon and living in China</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=william-hortone&label=Profile%20views&color=0e75b6&style=flat" alt="william-hortone" /> </p>
 
 - 🔭 I’m currently working on ** React Js App**
 
-- 🌱 I’m currently studying **Sofware Engineering**
+- 🌱 I’m currently studying **Computer sciences**
 
 - 👯 I’m looking to collaborate on **Front-end or Full-stack projects**
 
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/william hortone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william hortone" height="30" width="40" /></a>
-<a href="https://instagram.com/will_hortone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="will_hortone" height="30" width="40" /></a>
+<a href="https://www.instagram.com/william_hortone_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="will_hortone" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/william hortone dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="william hortone dev" height="30" width="40" /></a>
 </p>
 
